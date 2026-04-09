@@ -1,0 +1,20 @@
+.virtual-list-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.filter-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.list-item {
+  border-bottom: 1px solid #eee;
+  padding: 8px;
+}
+
+.category {
+  font-size: 12px;
+  color: #666;
+}
